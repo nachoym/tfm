@@ -12,5 +12,12 @@
 		  "max_delivery_time": 10,
 		  "penalty": 5
 		}
-	]
+	],
+ "sellers":
+ 	[
+		{
+		  "address": "0x3786cEed819E43D56039C60faBC5b3A4761C434d",
+		  "name": "Dominos Pizza"
+		}
+	}
 }
