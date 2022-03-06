@@ -3,14 +3,14 @@
 		{
 		  "id": 1,
 		  "price": 100,
-		  "Description": "paisaje de las Highlands en Escocia",
-		  "image": "https://drive.google.com/file/d/11M1zT81vKqhE5YaRDnJVcgPUUTLsYebe/view?usp=sharing"
+		  "max_delivery_time": 60,
+		  "penalty": 5		  
 		},
 		{
 		  "id": 2,
 		  "price": 200,
-		  "Description": "imagen de Calpe desde el morro de Toix",
-		  "image": "https://drive.google.com/file/d/1gzO6P7bZHSoZi7k3h_XVMK_sCZsNXWaq/view?usp=sharing"
+		  "max_delivery_time": 10,
+		  "penalty": 5
 		}
 	]
 }
