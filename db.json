@@ -16,7 +16,7 @@
   "sellers": [
     {
       "id": 1,
-      "address": "0x3786cEed819E43D56039C60faBC5b3A4761C434d",
+      "address": "0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
       "name": "Dominos Pizza"
     }
   ],
@@ -24,7 +24,7 @@
     {
       "id": 1,
       "address": "0x3786cEed819E43D56039C60faBC5b3A4761C434d",
-      "name": "Ignacio"
+      "name": "Ignacio Yagüe"
     }
   ]  
 }
