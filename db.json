@@ -20,18 +20,10 @@
          "id":3,
          "price":200000000000000000,
          "max_delivery_time":10,
-         "penalty":5,
+         "penalty":7,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
          "buyer":"0x1318a3c465a765ed151f1fe998f1cf2d236093c8"
-      },
-      {
-         "id": 4,
-         "price": 200000000000000000,
-         "max_delivery_time": 10,
-         "penalty": 5,
-         "seller": "0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer": "0x1318a3c465a765ed151f1fe998f1cf2d236093c8"
-      }      
+      }    
    ],
    "sellers":[
       {
