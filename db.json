@@ -14,7 +14,7 @@
          "max_delivery_time":10,
          "penalty":5,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer":"0x1318a3c465a765ed151f1fe998f1cf2d236093c8"
+         "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
       },
       {
          "id":3,
@@ -22,7 +22,7 @@
          "max_delivery_time":10,
          "penalty":5,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer":"0x1318a3c465a765ed151f1fe998f1cf2d236093c8"
+         "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
       },
       {
          "id":4,
@@ -30,7 +30,7 @@
          "max_delivery_time":10,
          "penalty":5,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer":"0x1318a3c465a765ed151f1fe998f1cf2d236093c8"
+         "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
       }         
    ],
    "sellers":[
