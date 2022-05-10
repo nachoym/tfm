@@ -2,7 +2,7 @@
    "orders":[
       {
          "id":1,
-         "price":100,
+         "price":1000000000000000,
          "max_delivery_time":60,
          "penalty":5,
          "seller": "0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
@@ -10,7 +10,7 @@
       },
       {
          "id":2,
-         "price":200,
+         "price":2000000000000000,
          "max_delivery_time":10,
          "penalty":5,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
@@ -18,7 +18,7 @@
       },
       {
          "id":3,
-         "price":200000000000000000,
+         "price":1000000000000000,
          "max_delivery_time":10,
          "penalty":5,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
@@ -26,12 +26,20 @@
       },
       {
          "id":4,
-         "price":10000000000000000000000,
+         "price":2000000000000000,
          "max_delivery_time":10,
          "penalty":5,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
          "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
-      }         
+      },
+      {
+         "id":5,
+         "price":1000000000000000,
+         "max_delivery_time":10,
+         "penalty":5,
+         "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
+         "buyer":"0x8744d215f7cd60b83d9d84c0d1185fd791c2da4c"
+      }           
    ],
    "sellers":[
       {
@@ -50,6 +58,11 @@
          "id":2,
          "address":"0x1318a3c465a765ed151f1fe998f1cf2d236093c8",
          "name":"Pedro Real"
+      },
+      {
+         "id":3,
+         "address":"0x8744d215f7cd60b83d9d84c0d1185fd791c2da4c",
+         "name":"Rosana Lopez"
       }
    ]
 }
