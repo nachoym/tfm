@@ -4,22 +4,22 @@
          "id":1,
          "price":1000000000000000,
          "max_delivery_time":60,
-         "penalty":5,
+         "penalty":300,
          "seller": "0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer": "0x3786cEed819E43D56039C60faBC5b3A4761C434d"
+         "buyer": "0x8744d215f7cd60b83d9d84c0d1185fd791c2da4c"
       },
       {
          "id":2,
          "price":2000000000000000,
          "max_delivery_time":10,
-         "penalty":5,
+         "penalty":300,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
+         "buyer":"0x8744d215f7cd60b83d9d84c0d1185fd791c2da4c"
       },
       {
          "id":3,
          "price":1000000000000000,
-         "max_delivery_time":10,
+         "max_delivery_time":600,
          "penalty":5,
          "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
          "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
@@ -27,32 +27,37 @@
       {
          "id":4,
          "price":2000000000000000,
-         "max_delivery_time":10,
+         "max_delivery_time":600,
          "penalty":5,
-         "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
+         "seller":"0x7e36cd94508dfb8cb978899e4064abe53ed1f111",
+         "buyer":"0x8744d215f7cd60b83d9d84c0d1185fd791c2da4c"
       },
       {
          "id":5,
          "price":1000000000000000,
-         "max_delivery_time":10,
+         "max_delivery_time":600,
          "penalty":5,
-         "seller":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "buyer":"0x8744d215f7cd60b83d9d84c0d1185fd791c2da4c"
+         "seller":"0x7e36cd94508dfb8cb978899e4064abe53ed1f111",
+         "buyer":"0x3786cEed819E43D56039C60faBC5b3A4761C434d"
       }           
    ],
    "sellers":[
       {
          "id":1,
          "address":"0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
-         "name":"Dominos Pizza"
+         "name":"Pizzería Nacho"
+      },
+      {
+         "id":2,
+         "address":"0x7e36cd94508dfb8cb978899e4064abe53ed1f111",
+         "name":"Burguer online"
       }
    ],
    "buyers":[
       {
          "id":1,
          "address":"0x3786cEed819E43D56039C60faBC5b3A4761C434d",
-         "name":"Ignacio Yagüe"
+         "name":"Ignacio Remix"
       },
       {
          "id":2,
