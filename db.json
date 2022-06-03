@@ -2,8 +2,8 @@
    "orders":[
       {
          "id":1,
-         "price":1000000000000000,
-         "max_delivery_time":300,
+         "price":40000000000000000,
+         "max_delivery_time":600,
          "penalty":5,
          "seller": "0x1faea676ab88dadebf81c9acc800e33f714bd2d1",
          "buyer": "0x8744d215f7cd60b83d9d84c0d1185fd791c2da4c"
